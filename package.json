@@ -1,16 +1,16 @@
 {
-"name": "pgauto89",
-"theme": "pgauto89",
-"version": "1.9.5",
-"description": "pgauto89 สมัครสมาชิกเว็บสล็อตเว็บตรง สมาชิกเยอะ รับเงินเครดิตฟรี",
-"keywords": [
-"pgauto89",
-"pgauto89 เครดิตฟรี",
-"pgauto89 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/pgauto89",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "pgauto89",
+  "theme": "pgauto89",
+  "version": "1.10.0",
+  "description": "pgauto89 สมัครสมาชิกเว็บสล็อตเว็บตรง สมาชิกเยอะ รับเงินเครดิตฟรี",
+  "keywords": [
+    "pgauto89",
+    "pgauto89 เครดิตฟรี",
+    "pgauto89 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/pgauto89",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
